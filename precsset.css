@@ -1,0 +1,29 @@
+/*
+PreCSSet v0.0.1
+A simple CSS preset to enable box-sizing and set a couple of nice defaults.
+
+*Based in Tom's [CSS Preset](https://github.com/tomhodgins/preset) and adapted to my preferences.*
+
+- Usage
+Copy / paste the small code before anything in your CSS.
+
+- License: MIT
+*/
+
+*,
+*:before,
+*:after {
+  box-sizing: border-box;
+  text-rendering: optimizeLegibility;
+  -moz-osx-font-smoothing: grayscale;
+  font-kerning: auto;
+}
+
+html {
+  font-family: sans-serif;
+  -webkit-text-size-adjust: 100%;
+}
+
+body {
+  margin: 0;
+}

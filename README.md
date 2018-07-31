@@ -1,17 +1,9 @@
-# CSS Preset
+# PreCSSet v0.0.1
 
-**version 1.0.0**
+A simple CSS preset to enable box-sizing and set a couple of nice defaults.
 
-A simple CSS preset to enable box-sizing, set some text rendering options to decrease the differences between browsers, and set a couple of nice defaults.
+_Based in Tom's [CSS Preset](https://github.com/tomhodgins/preset) and adapted to my preferences._
 
 ## Usage
 
-```html
-<link href=https://tomhodgins.github.io/preset/preset.css rel=stylesheet>
-```
-
-## Info
-
-- author: Tommy Hodgins
-- license: MIT
-- website: https://github.com/tomhodgins/preset
+Copy / paste the small code before anything in your CSS.
